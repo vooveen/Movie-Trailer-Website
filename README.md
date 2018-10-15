@@ -22,3 +22,6 @@ movie_variable_name = media.Movie("Movie's name", "Movie's brief description",
 3.Add movie_variable_name variable to the list data structure 'movies'
 4.Save the file
 5.Run the project again
+
+## Licence
+I took the fresh_tomatoes.py file from this [repository](https://github.com/udacity/ud036_StarterCode)
